@@ -1,7 +1,10 @@
-# Real Estate Property Listing App 🏠
-A real estate property listing web application built with **React.js** and **Redux** for state management, enabling users to browse, filter, and explore property listings with ease. The app leverages **Redux** for global state management and **React-Redux** to manage the API calls, ensuring a smooth and responsive user experience.
+# 🌐 Real-World React Projects Showcase
 
-This project demonstrates the implementation of core frontend technologies, API integration, and performance optimization techniques in a real-world setting.
+This repository serves as a portfolio to showcase several real-world web applications built using **React.js**, **Redux**, and modern frontend tools.
+
+Each project demonstrates my hands-on experience in building scalable and responsive UIs, integrating REST APIs, managing global state with Redux, and applying performance optimizations.
+
+Below you'll find live deployed versions of these projects across domains like real estate, accounting, e-commerce, fitness, and finance.
 
 ## 🛠️ Tech Stack
 
