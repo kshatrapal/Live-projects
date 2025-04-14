@@ -27,4 +27,17 @@ This project demonstrates the implementation of core frontend technologies, API 
 - **Responsive Design**: Fully responsive design to work on desktops, tablets, and mobile devices.
 - **Lazy Loading**: **React.lazy** and **Suspense** used to load components on demand, improving initial load performance.
 
----
+
+📌 How to Run the Project
+
+# Step 1: Clone the repository
+git clone https://github.com/your-username/real-estate-app.git
+
+# Step 2: Navigate to the project folder
+cd real-estate-app
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start the development server
+npm start
