@@ -27,10 +27,12 @@ This project demonstrates the implementation of core frontend technologies, API 
 - **Responsive Design**: Fully responsive design to work on desktops, tablets, and mobile devices.
 - **Lazy Loading**: **React.lazy** and **Suspense** used to load components on demand, improving initial load performance.
 
-## 🚀 Live Projects-
+## 🌐 Live Projects
 
-https://omniinfraheights.com/
-https://akounto.com/
-https://hathaspace.com/
-https://trimblaze.com/
-https://www.aspenwealthmgmt.com/
+Here are some of the live projects I've worked on:
+
+- 🔗 [Omni Infra Heights](https://omniinfraheights.com/) – Real Estate Listing App (React + Redux + Leaflet)
+- 🔗 [Akounto](https://akounto.com/) – Accounting App (React + Redux Toolkit)
+- 🔗 [Hathaspace](https://hathaspace.com/) – E-commerce UI (React + API integration)
+- 🔗 [Trimblaze](https://trimblaze.com/) – Fitness Tracking Dashboard (Javascript + Gsap + AOS)
+- 🔗 [Aspen Wealth](https://www.aspenwealthmgmt.com/) – Finance Advisory Website (Javascript + AOS)
