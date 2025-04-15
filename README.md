@@ -34,8 +34,8 @@ Below you'll find live deployed versions of these projects across domains like r
 
 Here are some of the live projects I've worked on:
 
-- 🔗 [Omni Infra Heights](https://omniinfraheights.com/) – Real Estate Listing App (React + Redux + Leaflet)
-- 🔗 [Akounto](https://akounto.com/) – Accounting App (React + Redux Toolkit)
-- 🔗 [Hathaspace](https://hathaspace.com/) – E-commerce UI (React + API integration)
+- 🔗 [Omni Infra Heights](https://omniinfraheights.com/) – Real Estate Listing App (React + Redux + Leaflet + API integration)
+- 🔗 [Akounto](https://akounto.com/) – Accounting App (React + Redux Toolkit + API integration)
+- 🔗 [Hathaspace](https://hathaspace.com/) – E-commerce UI (Javascript + Gsap + AOS)
 - 🔗 [Trimblaze](https://trimblaze.com/) – Fitness Tracking Dashboard (Javascript + Gsap + AOS)
 - 🔗 [Aspen Wealth](https://www.aspenwealthmgmt.com/) – Finance Advisory Website (Javascript + AOS)
