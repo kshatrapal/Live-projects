@@ -35,6 +35,8 @@ Below you'll find live deployed versions of these projects across domains like r
 Here are some of the live projects I've worked on:
 
 - 🔗 [Omni Infra Heights](https://omniinfraheights.com/) – Real Estate Listing App (React + Redux + Leaflet + API integration)
+- 🔗 [GradBay](https://www.gradbay.com/) – Campus Hiring Platform (React + Redux Toolkit + API Integration) Job marketplace for students and freshers with employer 
+      dashboards and listings
 - 🔗 [Akounto](https://akounto.com/) – Accounting App (React + Redux Toolkit + API integration)
 - 🔗 [Hathaspace](https://hathaspace.com/) – E-commerce UI (Javascript + Gsap + AOS)
 - 🔗 [Trimblaze](https://trimblaze.com/) – Fitness Tracking Dashboard (Javascript + Gsap + AOS)
